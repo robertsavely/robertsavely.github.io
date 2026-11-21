@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://rsavely08.github.io/sitemap.xml
